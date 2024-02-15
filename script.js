@@ -12,7 +12,7 @@ const showMore = document.getElementById("show-more-button");
 
 // Variable for storing the search keyword 
 let inputData = " ";
-// Variable for storing the page number
+// Variable for storing the pae number
 let page = 1;
 
 // Function for searching the images using unsplash API
